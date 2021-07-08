@@ -1,2 +1,2 @@
 # movie-app
-An application to find movies by year
+The movie - app as an application is built to search movies by year. It returns the movie released in a particular year by the order of their popularity.
